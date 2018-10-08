@@ -1,6 +1,6 @@
 """
 
-Helper functions for implementing a basic Neural Network from scratch
+Implementation of logistic regression from scratch using numpy
 
 """
 
